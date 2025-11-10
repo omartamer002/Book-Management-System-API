@@ -25,9 +25,7 @@ Each book has the following attributes:
 ## Technologies Used
 
 - **Golang** – Backend programming language  
-- **Gin** – Web framework for building REST APIs  
-- **GORM** – ORM for database interactions  
-- **PostgreSQL/MySQL/SQLite** – Relational database support  
+- **net/http** - Golang standard library package 
 
 ## Installation
 
